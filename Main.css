@@ -1,0 +1,50 @@
+body {
+    background-color: #006400; 'Change this to desired color
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1abc9c;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #1abc9c;
+}
+
+.active {
+    background-color: #006400; 'Change this one to desired color
+}
+#footer {
+    background-color:#006400;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
