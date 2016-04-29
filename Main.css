@@ -1,5 +1,6 @@
 body {
     background-color: #006400; 'Change this to desired color
+    
 }
 
 h1 {
@@ -10,6 +11,7 @@ h1 {
 p {
     font-family: "Times New Roman";
     font-size: 20px;
+    color: Black;
 }
 ul {
     list-style-type: none;
