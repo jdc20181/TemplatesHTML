@@ -41,3 +41,10 @@ li a:hover:not(.active) {
 .active {
     background-color: #006400; 'Change this one to desired color
 }
+#footer {
+    background-color:#006400;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
